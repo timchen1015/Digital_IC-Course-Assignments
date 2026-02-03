@@ -1,6 +1,6 @@
-# HW5: MCH - Minimum Convex Hull
+# HW5: MCH - Max Convex Hull
 
-A hardware implementation of Graham Scan algorithm to compute the convex hull of 20 input points and calculate the enclosed area.
+A hardware implementation of Graham Scan algorithm to compute the largest convex polygon from 20 input points and calculate the enclosed area.
 
 ## Specifications
 
