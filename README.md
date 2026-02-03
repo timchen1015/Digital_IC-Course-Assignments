@@ -7,8 +7,8 @@ This repository contains 5 homework assignments from the Digital IC Design cours
 - **HW1**: Median Finder Implementation
 - **HW2**: LCD Controller
 - **HW3**: FFT Implementation
-- **HW4**: ATCONV System
-- **HW5**: MCH Module
+- **HW4**: Atrous Convolution with Bus Interface System
+- **HW5**: Max Convex Hull
 
 Each homework folder contains:
 - RTL design files
