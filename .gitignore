@@ -1,0 +1,55 @@
+# Simulation files
+*.log
+*.vcd
+*.fsdb
+*.wdb
+*.trn
+*.dsn
+*.shm
+
+# Compiled files
+*.o
+*.so
+*.a
+*.out
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor backup files
+*~
+*.swp
+*.swo
+*.bak
+
+# Synopsys files
+*.pvl
+*.syn
+*.mr
+*.ddc
+csrc/
+simv*
+ucli.key
+DVEfiles/
+work/
+
+# Cadence files
+*.log.*
+.nfs*
+INCA_libs/
+cds.lib
+hdl.var
+
+# Modelsim files
+transcript
+vsim.wlf
+work/
+*.mti
+*.mpf
+*.wlf
