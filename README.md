@@ -1,6 +1,6 @@
-# Digital IC Design Course Assignments
+# NCKU Digital IC Design Course Assignments
 
-This repository contains 5 homework assignments from the Digital IC Design course.
+This repository contains 5 homework assignments focusing on RTL design, hardware optimization, and IC design flow.
 
 ## Structure
 
@@ -13,4 +13,4 @@ This repository contains 5 homework assignments from the Digital IC Design cours
 Each homework folder contains:
 - RTL design files
 - Documentary materials
-- Pre-Layout simulation results (where applicable)
+- Pre-Layout simulation results
